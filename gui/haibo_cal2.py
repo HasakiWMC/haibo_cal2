@@ -105,6 +105,7 @@ class Ui_MainWindow(QtWidgets.QWidget):
 
 
 if __name__ == '__main__':
+    # HaHa, I'm in GitHub
     from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog
     import sys
 
